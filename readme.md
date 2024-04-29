@@ -1,5 +1,6 @@
 # Three.js Portfolio with scroll-based animation 
 
+inspired by Three JS Journey by Bruno Simons
 
 ## Setup
 Download [Node.js](https://nodejs.org/en/download/).
