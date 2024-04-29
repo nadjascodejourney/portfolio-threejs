@@ -43,7 +43,7 @@ const scene = new THREE.Scene();
 //>> Objects
 
 //* load the gradient texture
-const gradientTexture = textureLoader.load("/textures/gradients/3.jpg");
+const gradientTexture = textureLoader.load("./textures/gradients/3.jpg");
 gradientTexture.magFilter = THREE.NearestFilter; // no gradient mix between the three shades
 //++ set the magFilter to NearestFilter to make the gradient texture look more pixelated and to give it a retro look => sharp edges between the colors and no mix between the colors; magfilter = magnification filter => how the texture looks when it's magnified; magnified means when the texture is bigger than the pixels on the screen => the texture is stretched and the pixels are bigger than the pixels on the screen => the texture is blurred;
 //* minfilter = minification filter => how the texture looks when it's minified; minified means when the texture is smaller than the pixels on the screen => the texture is compressed and the pixels are smaller than the pixels on the screen => the texture is pixelated
