@@ -1,4 +1,5 @@
-# Three.js Journey
+# Three.js Portfolio with scroll-based animation 
+
 
 ## Setup
 Download [Node.js](https://nodejs.org/en/download/).
