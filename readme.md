@@ -2,9 +2,12 @@
 
 inspired by Three JS Journey by Bruno Simons
 
+This is a mockup for a simple Portfolio. 
+My goal was to learn how to implement scroll-based animation and parallax effect with Three.js, guided by the highly recommended course by Bruno Simons.  
+
+
 ## Setup
-Download [Node.js](https://nodejs.org/en/download/).
-Run this followed commands:
+Clone the repo locally and run the following commands:
 
 ``` bash
 # Install dependencies (only the first time)
